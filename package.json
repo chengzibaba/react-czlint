@@ -1,8 +1,11 @@
 {
   "name": "react-czlint",
-  "version": "1.0.1",
-  "main": "dist/index.js",
+  "version": "1.0.2",
+  "main": "lib/index.js",
   "license": "MIT",
+  "description": "react eslint stylelint prettier",
+  "repository": "https://github.com/chengzibaba/react-czlint",
+  "author": "橙子 <977926726@qq.com>",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
@@ -30,8 +33,5 @@
   },
   "devDependencies": {
     "typescript": "^3.5.3"
-  },
-  "description": "react eslint stylelint prettier",
-  "repository": "https://github.com/chengzibaba/react-czlint",
-  "author": "橙子 <977926726@qq.com>"
+  }
 }
