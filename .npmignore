@@ -4,5 +4,6 @@
 .gitignore
 .npmignore
 .yarnclean
+tsconfig.json
 yarn-error.log
 yarn.lock
