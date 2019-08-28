@@ -1,8 +1,10 @@
 /src
 
+.vscode
 .editorconfig
 .gitignore
 .npmignore
+.prettierrc
 .yarnclean
 tsconfig.json
 yarn-error.log
